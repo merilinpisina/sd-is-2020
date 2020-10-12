@@ -1,4 +1,6 @@
 #include <iostream> 
+// Algorithm for reversing a DLL
+// Time Complexity: O(n)
   
 struct Node {  
     int data;  
